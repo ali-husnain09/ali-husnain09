@@ -1,7 +1,7 @@
-![MasterHead align="center"](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
+![MasterHead align="center"](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hi 👋, I'm Ali Husnain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />img
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-husnain09&label=Profile%20views&color=0e75b6&style=flat" alt="ali-husnain09" /> </p>
 
 - 🔭 I’m currently working on **GSAP**
