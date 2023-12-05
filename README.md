@@ -1,4 +1,4 @@
-![MasterHead align="center"](https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif)
+![MasterHead align="center"](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Ali Husnain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />img
