@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **JavaScript and all about Frontend Development**
 
-- 📫 How to reach me **tristinhall7878@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
