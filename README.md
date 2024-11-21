@@ -1,5 +1,4 @@
-
-h1 align="center">Hi 👋, I'm Ali Husnain</h1>
+<h1 align="center">Hi 👋, I'm Ali Husnain</h1>
 <h3 align="center">A Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-husnain09&label=Profile%20views&color=0e75b6&style=flat" alt="ali-husnain09" /> </p>
