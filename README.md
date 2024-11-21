@@ -1,6 +1,4 @@
 
-<![Header](./your-header-image-name.png)
-
 h1 align="center">Hi 👋, I'm Ali Husnain</h1>
 <h3 align="center">A Frontend Developer</h3>
 
